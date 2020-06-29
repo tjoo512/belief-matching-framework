@@ -1,0 +1,11 @@
+absl_py==0.7.1
+scikit_image==0.16.2
+tensorflow_gpu==1.14.0
+scipy==1.4.1
+pandas==0.24.1
+torch==1.4.0
+torchvision==0.5.0
+numpy==1.16.4
+Keras==2.3.1
+absl==0.0
+skimage==0.0
